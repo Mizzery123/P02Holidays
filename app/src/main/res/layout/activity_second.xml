@@ -5,14 +5,14 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/tvType"
+        android:id="@+id/tvDays"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Year 2"
         android:textSize="30sp" />
 
     <ListView
-        android:id="@+id/lvModules"
+        android:id="@+id/lvDays"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
